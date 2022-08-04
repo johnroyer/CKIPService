@@ -1,6 +1,8 @@
 # CKIP Service
 Docker compose for [ckiplab/ckiptagger](https://github.com/ckiplab/ckiptagger)
 
+This version is for aarch64 (Pi 4 model B). Base image is build by [armswdev/tensorflow-arm-neoverse](https://hub.docker.com/r/armswdev/tensorflow-arm-neoverse).
+
 ## Preparation
 - [Download model files](https://github.com/ckiplab/ckiptagger#1-download-model-files) and put into `data` folder
 
