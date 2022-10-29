@@ -1,4 +1,4 @@
-FROM armswdev/tensorflow-arm-neoverse:r22.07-tf-2.9.1-onednn-acl_threadpool
+FROM armswdev/tensorflow-arm-neoverse:r22.08-tf-2.9.1-onednn-acl_threadpool
 
 WORKDIR /usr/local/src/CKIPTagger
 
